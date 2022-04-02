@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: Carolyn Garcia
+Submitted by: 
 
 Time spent: 10
 
@@ -65,8 +65,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 
 ## License
-
-    Copyright Carolyn Garcia
+\
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
