@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: Carolyn Garcia
 
-Time spent: **#** hours spent in total
+Time spent: 10
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://glitch.com/edit/#!/succulent-coherent-condor?path=README.md%3A1%3A0
 
 ## Required Functionality
 
@@ -35,7 +35,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app!
-
+- Added Background Gif
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
